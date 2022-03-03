@@ -4,6 +4,12 @@
 This repo includes a personal project into stock forecasting using endogenous and exogenous data. THe project is entirely encapsulated in the form of a Jupyter Notebook. 
 The notebook is laid out as a pseudo-tutorial into the end-to-end process for time-series data analysis, with subsections for each step.
 
+
+# Contents
+
+- Jupyter Notebook (16012574_code.ipynb)
+- ReadMe File (README.md)
+
 # Description
 
 ## Data used
@@ -20,12 +26,6 @@ $AAL Stock forecasting project using:
 - Data exploration
 - Feature Engineering
 - Data inference, using ARIMA modelling
-
-
-# Contents
-
-- Jupyter Notebook (16012574_code.ipynb)
-- ReadMe File (README.md)
 
 # Rendering of Jupyter Notebook
 
