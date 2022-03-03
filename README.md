@@ -1,8 +1,8 @@
 
 # Forecasting of COVID Airline Stocks
 
-This repo includes a personal project into stock forecasting using endogenous and exogenous data. THe project is entirely encapsulated in the form of a Jupyter Notebook. 
-The notebook is laid out as a pseudo-tutorial into the end-to-end process for time-series data analysis, with subsections for each step.
+This repo includes a personal project into stock forecasting using endogenous and exogenous data. The project is entirely encapsulated in the form of a Jupyter Notebook. 
+The notebook is laid out as a pseudo-tutorial into the end-to-end process for time-series data analysis, with subsections for each step. In this way, package installations are not a necessity - the notebook can be viewed as is.
 
 
 # Contents
@@ -34,4 +34,4 @@ If the notebook file does not render in GitHub, please paste GitHub repository l
 
 [![View in Deepnote](https://deepnote.com/static/buttons/view-in-deepnote.svg)](https://deepnote.com/viewer/github.com/uceeatb/Forecasting-of-COVID-Airline-Stocks/blob/main/16012574_code.ipynb)
 
-Alternatively, if you still experience issues please consider downloading a local copy on the notebook, and running it using Anaconda
+Alternatively, if you still experience issues please consider downloading a local copy of the notebook, and running it using Jupter Notebook installed in an Anaconda environment.
